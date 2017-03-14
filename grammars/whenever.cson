@@ -1,0 +1,19 @@
+'scopeName': 'source.whenever'
+'name': 'Whenever'
+'fileTypes': ['txt']
+
+'patterns': [
+    {
+    'match': '\\b(?:\d*)?^\d+\x20\\b'
+    'name': 'constant.numeric.whenever'
+    },
+    {
+        # Line numbers as booleans rule
+    },
+    {
+        # again () rule
+    },
+	{
+	    # defer () rule
+    }
+]
