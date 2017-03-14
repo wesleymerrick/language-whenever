@@ -1,0 +1,17 @@
+{
+  "name": "language-whenever",
+  "version": "0.0.0",
+  "description": "Whenever esolang syntax highlighting in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleymerrick"
+  },
+  "bugs": {
+    "url": "https://github.com/wesleymerrick"
+  },
+  "license": "MIT"
+}
