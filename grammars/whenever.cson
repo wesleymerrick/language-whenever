@@ -8,12 +8,10 @@
     'name': 'constant.numeric.whenever'
     },
     {
-        # Line numbers as booleans rule
+    'match': '\\b(again|defer)\\b'
+    'name': 'keyword.control.whenever'
     },
     {
-        # again () rule
-    },
-	{
-	    # defer () rule
+    # Line numbers as booleans rule
     }
 ]
